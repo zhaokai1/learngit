@@ -6,7 +6,8 @@
 		"img_upload.js",
 		"img_upload.css",
 		"preview.tmpl",
-		"guide.tmpl"
+		"guide.tmpl",
+		"add":"T1"
 		
 	],
 	"dependencies": {
