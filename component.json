@@ -1,0 +1,17 @@
+{
+	"name": "img_upload",
+	"main": "img_upload.js",
+	"version": "0.0.8",
+	"files": [
+		"img_upload.js",
+		"img_upload.css",
+		"preview.tmpl",
+		"guide.tmpl"
+		
+	],
+	"dependencies": {
+		"didi-component/didibridge": "0.1.18",
+		"didi-component/imgcliper": "1.1.9",
+		"didi-component/tool": "0.1.2"
+	}
+}
