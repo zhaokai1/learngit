@@ -9,7 +9,8 @@
 		"guide.tmpl",
 		"add":"T1",
 		"add2":"T2",
-		"add3":"T3"
+		"add3":"T3",
+		"add4":"T4"
 		
 	],
 	"dependencies": {
